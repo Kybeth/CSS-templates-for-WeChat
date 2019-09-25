@@ -1,4 +1,4 @@
-# CSS-templates-for-WeChat
+# CSS Templates to Style Your Article
 This repository stores CSS templates to decorate your article.
 
 The workflow I recommend is:
