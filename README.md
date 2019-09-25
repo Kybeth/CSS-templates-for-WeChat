@@ -7,9 +7,11 @@ The workflow I recommend is:
 3. Use the CSS template for styling this HTML
 
 For text editor application I recommend something like Ulysses. In this way when you type your words like this:
+
 ![](media/15694187706450.jpg)
 
 You can get this in one click:
+
 ![](media/15694186169225.jpg)
 
 Much prettier!
